@@ -1,7 +1,6 @@
 QR Code Generator and Scanner
 Personal Project - Web Application
 
-Developer:
 Md Tousif Rehman, 3VC20IS016
 
 Project Description:
