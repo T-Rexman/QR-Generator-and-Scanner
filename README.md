@@ -29,3 +29,5 @@ How to set up and run the project:
 1. Clone the project repository to your local machine.
 2. Ensure the API used is updated regularly.
 3. Access the application in your browser to generate or scan QR codes.
+
+Demo - https://t-rexman.github.io/QR-Generator-and-Scanner/
